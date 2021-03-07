@@ -6,7 +6,7 @@
 </div>
 
 ```xml
-  <com.trian.ui.components.Thermometer
+  <com.trian.temperature.TemperatureView
             android:id="@+id/v_temp"
             android:layout_width="200dp"
             android:layout_height="400dp"
