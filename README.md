@@ -38,7 +38,7 @@ temperatureView.setCurrentTemp(/* data */);
 ```gradle
     dependencies {
 	    ...
-	    implementation 'com.github.triandamai:singleadapter:v1.0.15'
+	    implementation 'com.github.triandamai:chart:1.0.0'
     }
 ```
 
